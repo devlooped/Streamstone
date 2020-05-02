@@ -63,7 +63,7 @@
         <ExpectedObjectsVersion>2.3.4</ExpectedObjectsVersion>
 
         <!-- 3rd party packages -->
-        <MicrosoftAzureCosmosTableVersion>1.0.0</MicrosoftAzureCosmosTableVersion>
+        <MicrosoftAzureCosmosTableVersion>1.0.7</MicrosoftAzureCosmosTableVersion>
         <NewtonsoftJsonBson>1.0.2</NewtonsoftJsonBson>
 
         <!-- Tooling related packages -->
